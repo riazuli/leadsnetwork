@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="xMidYMid meet" id="comp-keietjx3svgcontent" data-bbox="0.472 0.472 118.062 118.062" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0.472 0.472 118.062 118.062" height="120" width="120" data-type="color" role="img" aria-labelledby="comp-keietjx3-svgtitle"><title id="comp-keietjx3-svgtitle"></title>
+    <g>
+        <defs>
+            <path id="2045077d-3c88-4704-8711-e5fbb172b8b2" d="M108.136 59.068c0 27.1-21.968 49.068-49.068 49.068-27.1 0-49.068-21.968-49.068-49.068C10 31.968 31.968 10 59.068 10c27.1 0 49.068 21.968 49.068 49.068z"></path>
+        </defs>
+        <g fill-rule="evenodd">
+            <g transform="translate(.435 .435)">
+                <mask fill="#ffffff" id="5deabc0f-ea91-4235-9a8c-8061c6b25712">
+                    <use xlink:href="#2045077d-3c88-4704-8711-e5fbb172b8b2"></use>
+                </mask>
+                <use xlink:href="#2045077d-3c88-4704-8711-e5fbb172b8b2" transform="rotate(-76.714 59.068 59.068)" fill-rule="nonzero" fill="#1CB3A0" data-color="4"></use>
+                <path mask="url(#5deabc0f-ea91-4235-9a8c-8061c6b25712)" fill-rule="nonzero" fill="#119A88" d="M107.604 67.333L82.565 42.8c-.339-.365-8.795-3.234-9.264-3.234l-32.406.284c-.443 0-.913.183-1.278.522-.365.365-3.052 1.958-3.052 2.428l7.838 10.371L54.1 68.284c-.33 11.138-.33 16.899 0 17.281l18.498 22.267c23.53-1.905 37.04-8.2 39.465-31.575l-4.46-8.924z" data-color="1"></path>
+            </g>
+            <path fill="#FFFFFF" d="M83 44.473C83 40.223 71.43 38 60 38s-23 2.222-23 6.473c0 .963.6 1.821 1.652 2.574L54.48 68.814v16.204l.057.982h.92l.42-.016a32.557 32.557 0 0 0 5.64-2.981 22.574 22.574 0 0 0 4.005-3.667V68.814l15.827-21.767C82.4 46.294 83 45.436 83 44.473zM60 40c12.82 0 21 2.665 21 4.5S72.82 49 60 49s-21-2.665-21-4.5S47.18 40 60 40z" data-color="2"></path>
+            <path fill="#F5D340" d="M71 38a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" data-color="3"></path>
+            <path fill="#F5D340" d="M53 32a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" data-color="3"></path>
+        </g>
+    </g>
+</svg>
