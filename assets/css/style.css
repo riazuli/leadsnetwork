@@ -251,3 +251,17 @@ button:focus {
 .footer-text {
   margin: 0px;
 }
+
+.form-area .form-control:focus,.form-area .form-control:active {
+  outline: none;
+  box-shadow: none;
+}
+
+.messages {
+  margin-top: 20px;
+}
+
+.messages .close {
+  color: #000;
+  opacity: 1;
+}

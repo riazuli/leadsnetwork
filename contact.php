@@ -4,11 +4,11 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'Agentqrealtor <info@agentqhomevalues.ml>';
+$from = 'Leads Network <info@leadsnetwork.com>';
 
 
 // an email address that will receive the email with the output of the form
-$sendTo = '<riazul994@gmail.com>';
+$sendTo = '<camille@aloware.com >';
 
 // subject of the email
 $subject = 'New submission from Leads Network landing page';
