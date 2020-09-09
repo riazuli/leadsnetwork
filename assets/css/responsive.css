@@ -2,18 +2,75 @@
 @media only screen and (min-width: 1900px) {
 }
 
-
 /* Medium Layout: 1280px. */
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-
 }
 
 /* Tablet Layout: 768px. */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+  .header .navbar .navbar-nav .socials .nav-item {
+    padding: 5px 10px;
+  }
+  .hero-area .hero-text h1 {
+    font-size: 50px;
+  }
 
+  .section-padding {
+    padding: 90px 0px;
+  }
+
+  .section-title {
+    margin-bottom: 50px;
+  }
+
+  .single-why-us {
+    padding: 0px 30px;
+    margin: 0px;
+    margin-bottom: 20px;
+  }
 }
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
+  .header .navbar .navbar-nav .socials .nav-item {
+    padding: 5px 10px;
+  }
+  .hero-area .banner-image {
+    position: relative;
+    top: 0;
+    transform: none;
+    padding-top: 150px;
+  }
+  .hero-area .hero-text {
+    padding: 20px 0px 100px;
+  }
 
+  .hero-area .hero-text h1 {
+    font-size: 36px;
+  }
+
+  .section-padding {
+    padding: 60px 0px;
+  }
+
+  .section-title {
+    margin-bottom: 30px;
+  }
+
+  .single-why-us {
+    padding: 0px 10px;
+    margin: 0px;
+    margin-bottom: 20px;
+  }
+  .hero-area .hero-text {
+    padding: 20px 0px 100px;
+  }
+
+  .section-title h2 {
+    font-size: 32px;
+  }
+
+  .single-faq {
+    padding: 20px 10px;
+  }
 }
